@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning!
 - 📫 How to reach me: [Twitter](https://x.com/ta_bon22)
 <br>
+<!-- skill -->
+
+[![My Skills](https://skillicons.dev/icons?i=kotlin,spring,php,laravel,nodejs,ts,graphql,docker&theme=light)](https://skillicons.dev)
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takuyakawata&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
